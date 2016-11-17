@@ -1,1 +1,3 @@
 # WireFlo
+
+WireFly enables users to transfer money internationally at a much better rate than market value. We create a peer-to-peer network to minimize the amount of money that actually crosses borders, and when it is forced to cross, we send it over the cheapest path possible. To show the true power of this algorithm run at scale, we built a simulator of customers around the world with Capital-One accounts looking to transfer currency. We imagine this as a powerful tool to empower immigrants that moved abroad for financial reasons to send money back to their families and friends at a fairer rate.
